@@ -26,4 +26,6 @@
   ON
   [KMS Sql Case Study].Order_ID = Order_Status .Order_ID
   ```
+### Insights
+   
     

@@ -27,5 +27,23 @@
   [KMS Sql Case Study].Order_ID = Order_Status .Order_ID
   ```
 ### Insights
+   - From this Question: What to do to increase the revenue from the bottom 10 customers?
+   -  We are identifying low-performing customers in terms of sales contribution, and this tells us
+   -  These 10 customers generate the least revenue, and they may be
+       1. New customer with low purchase history
+       2. Inactive Customers
+       3. Small budget customers
+       4. Dissatisfied Clients not returning for more business
+   - Recommendation to increase revenue from the bottom 10 customers
+       1. Account-based follow-up
+       2. Loyalty Incentives
+       3. Customer feedback collection
+       4. Engagement Campaigns
+       5. Customer segmentation and profiling
+   ### Contact
+      For questions and collaboration [ijeomahkemi@gmail.com](
+          
+          
+    
    
     
